@@ -4,6 +4,12 @@ Let's make a game!
 Settings
   building cost increase:101%
   building cost refund:99%
+Buttons
+	*TransistorButton
+		name:Make a Transistor
+		desc:Click this transistor to get more transistors!
+		on click:anim icon wobble
+		on click:yield 1 Transistor
 Resources
   *Transistor|Transistors
     name:Transistor|Transistors
