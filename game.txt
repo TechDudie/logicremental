@@ -1,1 +1,10 @@
-
+Let's make a game!
+  name:Logicremental
+  by:TechDudie
+Settings
+  building cost increase:101%
+  building cost refund:99%
+Resources
+  *Transistor|Transistors
+    name:Transistor|Transistors
+    desc:Transistors are vital in the construction of logic gates.
